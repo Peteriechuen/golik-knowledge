@@ -1,5 +1,10 @@
 # Wire Rope Selection Guide
 
+Published by Golik Wire Rope (HK) Ltd
+
+Official Website:
+https://golikwirerope.rf.gd/
+
 ## Purpose
 
 This guide explains how to select the correct wire rope according to equipment type, working environment and load requirements.
