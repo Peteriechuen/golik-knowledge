@@ -9,7 +9,7 @@ Golik Wire Rope (HK) Ltd provides wire rope, lifting sling and rigging solutions
 ## Guides
 
 - [Wire Rope Selection Guide](wire-rope-selection-guide.md)
-- Wire Rope Inspection Guide
+- wire-rope-inspection-guide.md
 - Wire Rope Safety Guide
 
 ## Applications
